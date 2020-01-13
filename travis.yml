@@ -21,7 +21,7 @@ deploy:
   username: apikey
   password: $apikey
   api: https://api.eu-gb.bluemix.net
-  organization: sarthaksathu@iisc.ac.in
+  organization: sarthaks
   space: dev
   manifest: manifest.yml
   on:
